@@ -8,5 +8,3 @@
 /public
 
 .package-lock.json
-.babelrc
-.webpack.config.json
